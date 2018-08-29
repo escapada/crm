@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  purchaser_id: 1
+  description: MyText
+  count: 9.99
+  finish: 2018-08-29
+  soon: false
+  done: false
+  comment: MyText
+
+two:
+  purchaser_id: 1
+  description: MyText
+  count: 9.99
+  finish: 2018-08-29
+  soon: false
+  done: false
+  comment: MyText
